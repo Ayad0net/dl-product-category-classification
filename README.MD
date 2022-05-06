@@ -17,9 +17,10 @@ Inside the repo directory ...
 pip install -r requirements.txt --no-cache-dir
 ```
 
-### 3. download pretrained model  using 
+### 3. download pretrained model... 
+Inside the repo directory ...
 ```
-
+wget https://github.com/yang-zhang/product_category/releases/download/v0.0.1/transformer_20210307D3.ckpt -P data
 ```
 
 
